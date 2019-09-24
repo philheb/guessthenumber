@@ -1,6 +1,6 @@
 # Guess the number
 
-### Expo - React Native with Hooks. This app shows the basic usage of the Dimension and Plateform API, adapting to different OS and orientations.
+Expo - React Native with Hooks. This app shows the basic usage of the Dimension and Plateform API, adapting to different OS and orientations.
 
 ## Setup
 
